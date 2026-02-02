@@ -20,10 +20,8 @@ building block for a Sigma–Delta Modulator.
 - Input: sinusoidal signal  
 - Output: digital-like comparator response  
 
-## Screenshots
-The `screenshots/` folder contains:
-- Comparator schematic  
-- Transient response waveform  
+## Comparartor schematic
+![Circuit Diagram](D:\sigma delta modulator\scrfeenshots.png) 
 
 ## Project Team
 This project was carried out as a group mini-project.
