@@ -21,7 +21,8 @@ building block for a Sigma–Delta Modulator.
 - Output: digital-like comparator response  
 
 ## Comparartor schematic
-![Circuit Diagram](D:\sigma delta modulator\scrfeenshots.png) 
+![Comparator schematic](screenshots/comparator_schematic.png)
+
 
 ## Project Team
 This project was carried out as a group mini-project.
