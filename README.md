@@ -21,8 +21,7 @@ building block for a Sigma–Delta Modulator.
 - Output: digital-like comparator response  
 
 ## Comparartor schematic
-![Comparator schematic](screenshots/comparator_schematic.png)
-
+![Comparator schematic]D:\git\cadence-comparator-project\Comparator screenshots
 
 ## Project Team
 This project was carried out as a group mini-project.
