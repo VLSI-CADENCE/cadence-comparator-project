@@ -21,7 +21,7 @@ building block for a Sigma–Delta Modulator.
 - Output: digital-like comparator response  
 
 ## Comparartor schematic
-![Comparator schematic](screenshots/comparator_schematic.png)
+![Comparator schematic](Comparator screenshots/Comparator Schematic.png)
 
 
 
