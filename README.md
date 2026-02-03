@@ -20,10 +20,25 @@ building block for a Sigma–Delta Modulator.
 - Input: sinusoidal signal  
 - Output: digital-like comparator response  
 
-## Comparartor schematic
-![Comparator schematic](screenshots/comparator_schematic.png)
+## Comparator Schematic
+The CMOS comparator schematic designed using Cadence Virtuoso.
 
+![Comparator Schematic](images/comparator_schematic.png)
 
+## Comparator Symbol
+Symbol view used for testbench creation.
+
+![Comparator Symbol](images/comparator_symbol.png)
+
+## Testbench
+Testbench used to verify comparator operation.
+
+![Testbench](images/comparator_testbench.png)
+
+## Simulation Results
+Transient simulation results of the comparator.
+
+![Simulation Results](images/comparator_simulation.png)
 
 ## Project Team
 This project was carried out as a group mini-project.
